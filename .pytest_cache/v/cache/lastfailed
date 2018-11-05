@@ -1,0 +1,6 @@
+{
+  "test/index_test.py::TestHasManyBelongsTo": true,
+  "test/index_test.py::TestHasManyBelongsTo::test_return_gwyneth_paltrows_roles": true,
+  "test/index_test.py::TestHasManyBelongsTo::test_return_tom_hanks_2nd_role": true,
+  "test/index_test.py::TestHasManyBelongsTo::test_roles_belong_to_actor": true
+}
